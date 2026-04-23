@@ -1,0 +1,16 @@
+/* Hourly Work Logger Modal Styles */
+.hourly-logger-modal .modal-content {
+    padding: 1em 0;
+}
+
+.hourly-logger-modal input[type="text"] {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.hourly-logger-modal .button-container {
+    display: flex;
+    gap: 0.5em;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
